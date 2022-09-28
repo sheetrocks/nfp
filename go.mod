@@ -1,3 +1,3 @@
-module github.com/xuri/nfp
+module github.com/sheetrocks/nfp
 
 go 1.15
